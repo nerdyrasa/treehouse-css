@@ -9,9 +9,13 @@ Topics: Attribute selectors, advanced pseudo-classes and pseudo-elements
 ### Child, Adjacent, and General Sibling Combinators
 
 ## More Attribute Selectors and Pseudo-Classes
-### :first-child and :last-child
-### :only-child and :empty
-### substring matching
+
+Select elements without having to write extra classes or IDs in the markup. Target elements bases on specific pieces of HTML attributes, user interaction states, or their position on the page.
+
+### Structural pseudoclasses
+#### :first-child and :last-child
+#### :only-child and :empty
+#### substring matching
 #### begins with
 #### ends with
 #### contains
